@@ -1,0 +1,8 @@
+# problem here
+# https://share.getcloudapp.com/QwuKKnZW
+
+n = int(input())
+
+for i in range(n):
+    if i < n:
+        print(i**2)
